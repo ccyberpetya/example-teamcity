@@ -14,7 +14,7 @@
 - .jar появился в Artifacts TeamCity
 
 # 01 
-![alt text](../../teamcity/1.png)
+![alt text](/teamcity/1.png)
 # 02
 ![alt text](../../teamcity/2.png)
 # 03
