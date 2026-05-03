@@ -18,5 +18,6 @@ public class Welcomer{
 
 	public String sayHunterReply() {
     return "hunter is ready to answer";
+	}
 }
 
